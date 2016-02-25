@@ -52,4 +52,8 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
+# Sublime text
+*.sublime-project
+*.sublime-workspace
+
 *.DS_Store
